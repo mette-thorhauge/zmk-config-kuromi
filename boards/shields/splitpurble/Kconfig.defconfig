@@ -1,6 +1,6 @@
 if SHIELD_SPLITPURBLE
 
 config ZMK_KEYBOARD_NAME
-    defualt "SplitPurble"
+    default "SplitPurble"
 
 endif
