@@ -8,7 +8,7 @@
 
     defualt_kscan: kscan {
         compatible = "zmk,kscan-gpio-matrix";
-        lable = "defualt_kscan";
+        
         diode-direction = "col2row";
         wakeup-source;
 
