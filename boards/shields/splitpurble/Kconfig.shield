@@ -1,2 +1,2 @@
 config SHIELD_SPLITPURBLE
-    deg_bool $(shields_list_contains, splitpurble)
+    def_bool $(shields_list_contains, splitpurble)
