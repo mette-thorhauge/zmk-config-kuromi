@@ -9,11 +9,11 @@
 
         defualt_layer{
             bindings = <
-                &kp KP_ESC     &kp KP_N1    &kp KP_N2   &kp KP_N3   &kp KP_N4   &kp KP_N5
-                &kp KP_TAB     &kp KP_Q     &kp KP_W    &kp KP_E    &kp KP_R    &kp KP_T
-                &kp KP_CAPS    &kp KP_A     &kp KP_S    &kp KP_D    &kp KP_F    &kp KP_G
-                &kp KP_LSHIFT  &kp KP_Z     &kp KP_X    &kp KP_C    &kp KP_V    &kp KP_B
-                &kp KP_LCTRL   &kp KP_LWIN  &MO 1       &none       &none       &kp KP_SPACE
+                &kp ESC     &kp N1    &kp N2   &kp N3   &kp N4   &kp N5
+                &kp TAB     &kp Q     &kp W    &kp E    &kp R    &kp T
+                &kp CAPS    &kp A     &kp S    &kp D    &kp F    &kp G
+                &kp LSHIFT  &kp Z     &kp X    &kp C    &kp V    &kp B
+                &kp LCTRL   &kp LWIN  &MO 1    &none    &none    &kp SPACE
             >;
         };
 
