@@ -13,7 +13,7 @@
                 &kp TAB     &kp Q     &kp W    &kp E    &kp R    &kp T
                 &kp CAPS    &kp A     &kp S    &kp D    &kp F    &kp G
                 &kp LSHIFT  &kp Z     &kp X    &kp C    &kp V    &kp B
-                &kp LCTRL   &kp LWIN  &MO 1    &none    &none    &kp SPACE
+                &kp LCTRL   &kp LWIN  &mo 1    &none    &none    &kp SPACE
             >;
         };
 
