@@ -4,7 +4,7 @@
     chosen{
         zmk,kscan = &defualt_kscan;
         zmk,matrix_transform = &defualt_transform;
-    }
+    };
 
     defualt_kscan: kscan {
         compatible = "zmk,kscan-gpio-matrix";
