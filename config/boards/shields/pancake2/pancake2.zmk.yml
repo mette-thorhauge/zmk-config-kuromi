@@ -1,0 +1,8 @@
+file_format: "1"
+id: pancake2
+name: Pancake2
+type: shield
+url: https://github.com/matthiasmakes/zmk-config-splitPurble
+requires: [nice_nano_v2]
+features:
+  - keys
