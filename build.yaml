@@ -20,5 +20,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: pancake2
+    shield: [ "pancake2_left", "pancake2_right" ]
 
