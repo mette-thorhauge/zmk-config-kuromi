@@ -6,7 +6,6 @@ if SHIELD_PANCAKE2_LEFT
 config ZMK_KEYBOARD_NAME
     default "Pancake2"
 
-
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
