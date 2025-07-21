@@ -1,4 +1,4 @@
-#include "Pancake2.dtsi"
+#include "pancake2.dtsi"
 
 &kscan0 {
         col-gpios=  <&pro_micro 1 GPIO_ACTIVE_HIGH>,
