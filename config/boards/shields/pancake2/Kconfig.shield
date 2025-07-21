@@ -1,5 +1,9 @@
 # Copyright (c) 2022 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_PANCAKE2
-    def_bool $(shields_list_contains,pancake2)
+config SHIELD_PANCAKE2_LEFT
+    def_bool $(shields_list_contains,pancake2_left)
+
+
+config SHIELD_PANCAKE2_RIGHT
+    def_bool $(shields_list_contains,pancake2_right)
