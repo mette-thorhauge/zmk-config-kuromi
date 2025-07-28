@@ -35,7 +35,15 @@
         display-name = "Default Layout";
         kscan = <&kscan0>; // Label of the kscan node, optional if all layouts use the same
         transform = <&default_transform>; // Label of the matrix transform for this layout
-    };
+        };
+
+   //     left_encoder: encoder_left {
+   //         compatible = "alps,ec11";
+   //         a-gpios = <PIN_A (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+   //         b-gpios = <PIN_B (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+   //         steps = <18>;
+   //         status = "disabled";
+   // };
 
     
 };
