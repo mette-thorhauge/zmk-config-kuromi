@@ -24,3 +24,11 @@
             , <&pro_micro 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
 };
+
+
+&right_encoder {
+    a-gpios = <9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+    b-gpios = <8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+    status = "okay";
+
+}
