@@ -46,8 +46,6 @@
 
         right_encoder: encoder_right {
                 compatible = "alps,ec11";
-                a-gpios = <PIN_A (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
-                b-gpios = <PIN_B (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
                 steps = <18>;
                 status = "disabled";
 
