@@ -31,4 +31,4 @@
     b-gpios = <8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
     status = "okay";
 
-}
+};
