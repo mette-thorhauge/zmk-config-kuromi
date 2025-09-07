@@ -1,7 +1,7 @@
 # Copyright (c) 2022 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_SPLITPURBLE_LEFT
+if SHIELD_KUROMI_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "KbKuromi"
@@ -11,7 +11,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_SPLITPURBLE_LEFT || SHIELD_SPLITPURBLE_RIGHT
+if SHIELD_KUROMI_LEFT || SHIELD_KUROMI_RIGHT
 
 config ZMK_SPLIT
     default y
