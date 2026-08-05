@@ -7,9 +7,9 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: splitPurble_left
-  - board: nice_nano
+  - board: nice_nano/zmk
     shield: splitPurble_right
-  - board: nice_nano
+  - board: nice_nano/zmk
     shield: settings_reset
