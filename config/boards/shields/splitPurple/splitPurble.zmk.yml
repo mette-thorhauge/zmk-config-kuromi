@@ -1,8 +1,0 @@
-file_format: "1"
-id: splitPurble
-name: splitPurble
-type: shield
-url: https://github.com/matthiasmakes/zmk-config-splitPurble
-requires: [nice_nano_v2]
-features:
-  - keys

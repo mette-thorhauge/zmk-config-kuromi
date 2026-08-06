@@ -1,0 +1,8 @@
+file_format: "1"
+id: kuromi
+name: kuromi
+type: shield
+url: https://github.com/mette-thorhauge/zmk-config-kuromi
+requires: [nice_nano_v2]
+features:
+  - keys
