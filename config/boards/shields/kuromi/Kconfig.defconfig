@@ -4,7 +4,7 @@
 if SHIELD_KUROMI_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "OceanBlue"
+    default "kuromi"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
